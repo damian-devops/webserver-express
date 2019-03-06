@@ -1,0 +1,13 @@
+npm i express --save
+
+el "--save" es para que lo instale como dependencia del proyecto y no como uso global 
+
+
+npm install hbs <---- handlebars-express 
+
+nodemon server -e js,hbs,html,css <---- para que este atento a otros cambios 
+
+package.json start
+
+es una palabra reservada para iniciar la aplicacion en servidores ej heroku <--- tambien
+se puede usar desde mi cmd pero solo start puede llamarse usando npm start 
